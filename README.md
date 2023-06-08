@@ -1,5 +1,9 @@
 # Example StableLM Generator Plugin for Steamship
 
+This is **exclusively** meant to be a demonstration of how one might add a custom LLM into the Steamship
+ecosystem and use it for text-generation. It SHOULD NOT be used for anything beyond experimentation with
+the platform and as inspiration for future integrations.
+
 ## Model info
 
 Uses an integration with [Replicate](replicate.com) for model hosting.
@@ -19,6 +23,9 @@ Absolutely no warranty is provided. Use at your risk.
 
 This is NOT contributed or endorsed by Steamship in any way. It reflects entirely personal use and development, with
 the goal of inspiring others in the larger community to pursue custom LLM integration.
+
+**REMINDER**: Use of any plugin on Steamship is subject to Steamship's
+[Terms of Service](https://www.steamship.com/policies/terms-of-service). 
 
 ## Deployment
 
